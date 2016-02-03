@@ -3,4 +3,5 @@
 Technologies used in this template:
 
 + [Parse](https://www.parse.com/)
++ [Handlebars.js](http://handlebarsjs.com/)
 
